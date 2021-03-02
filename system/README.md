@@ -1,5 +1,5 @@
 # AdoptOpenJDK System Tests
-
+test
 System tests help verify that the AdoptOpenJDK binaries are *good* by running a variety of load tests. 
 
 ## Related repositories: 
