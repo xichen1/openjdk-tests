@@ -13,6 +13,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 
+
 <project name="MBCS_Tests" default="build" basedir=".">
 	<taskdef resource="net/sf/antcontrib/antlib.xml" />
 	<description>
